@@ -1,0 +1,24 @@
+<package format="2">
+  <name>visnav2013_exercise</name>
+  <version>1.2.4</version>
+  <description>
+  This package provides foo capability.
+  </description>
+  <maintainer email="foobar@foo.bar.willowgarage.com">mengkun she</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>visualization_msgs</build_depend>
+  <build_depend>ardrone_autonomy</build_depend>
+  
+	
+
+
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>ardrone_autonomy</exec_depend>
+</package>
